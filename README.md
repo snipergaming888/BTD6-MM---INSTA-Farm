@@ -26,6 +26,7 @@ you must have a 1920x1080p monitor.
 3.  open up bloons and play dark castle on easy and select deflation.
 4.  close out the popup and run the macro.
 5.  optional: set it to loop (max 10 for free version of macro recorder)
-#compatabily
-currently, the easter event allows the farming of insta-monkeys. there are two scripts, one for insta and monkey money farming, and one just for money farming.
+# compatabily
+currently, the easter event allows the farming of insta-monkeys. 
+there are two scripts, one for insta and monkey money farming, and one just for money farming.
 
