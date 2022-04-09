@@ -5,13 +5,21 @@ This Macro Recorder Script Plays The game on the map Dark castle on Deflation fo
 
 #requirements
 The Expert map "Dark Castle" and its Deflation mode. (under "Easy")
+
 The hero Obyn (select him)
+
 0/0/2 Monkey Village.
+
 2/0/3 Super Monkey.
+
 3/0/1 Ninja Monkey.
+
 3/0/0 Alchemist.
+
 Auto-Start must be enabled.
+
 you must have a 1920x1080p monitor.
+
 #how to use
 1. download macro recorder. https://www.macrorecorder.com/
 2.  download the script from this repository.
