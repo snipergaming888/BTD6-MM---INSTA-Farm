@@ -29,4 +29,6 @@ you must have a 1920x1080p monitor.
 # compatabily
 currently, the easter event allows the farming of insta-monkeys. 
 there are two scripts, one for insta and monkey money farming, and one just for money farming.
+# will i get banned for using this!?!?!??!
+most likey not. if you are still sceptical, run steam in offline mode.
 
