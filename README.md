@@ -21,7 +21,7 @@ Auto-Start must be enabled.
 you must have a 1920x1080p monitor.
 
 # how to use
-1. download macro recorder. https://www.macrorecorder.com/
+1. download abd install macro recorder. https://www.macrorecorder.com/
 2.  download the script from this repository.
 3.  open up bloons and play dark castle on easy and select deflation.
 4.  close out the popup and run the macro.
