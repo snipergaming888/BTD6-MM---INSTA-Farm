@@ -33,3 +33,6 @@ i do not know if the insta-monkey farming one works yet, but it *should* work. i
 # will i get banned for using this!?!?!??!
 most likey not. if you are still sceptical, run steam in offline mode.
 
+# it won't work for tier 4 crates and above?!?!??!
+due to how you get more insta monkeys the higher level the crates are, it is hard to have the script know how many you will get. i am working on a solution.
+
