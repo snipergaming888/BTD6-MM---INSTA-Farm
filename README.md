@@ -34,5 +34,5 @@ i do not know if the insta-monkey farming one works yet, but it *should* work. i
 most likey not. if you are still sceptical, run steam in offline mode.
 
 # How do i farm insta monkeys!!!!!
-right now it only works if there is a BTD6 event that has the insta-monkey loot crates.
+right now the insta farming one only works if there is a BTD6 event that has the insta-monkey loot crates.
 
