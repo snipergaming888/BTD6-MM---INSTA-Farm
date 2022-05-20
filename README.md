@@ -29,7 +29,7 @@ you must have a 1920x1080p monitor.
 # compatabily
 currently, the easter event allows the farming of insta-monkeys. 
 there are three scripts, 2 for insta and monkey money farming, and one just for money farming.
-use "BTD6 Bloon Farm (6 hour loop, money and 2 giving insta crates" when the crates are under diamond, and use "BTD6 Bloon Farm (6 hour loop, money and 3 giving insta crates)" when you reach diamond.
+use "BTD6 Bloon Farm (6 hour loop, money and 2 giving insta crates" when the crates are under diamond, and use "BTD6 Bloon Farm (6 hour loop, money and 3 giving insta crates)" when you reach diamond crates. the only money one will not work when there is a collection event, so use the insta-monkey ones instead.
 # will i get banned for using this!?!?!??!
 most likey not. if you are still sceptical, run steam in offline mode.
 
