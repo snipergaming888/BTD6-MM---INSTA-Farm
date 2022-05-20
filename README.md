@@ -28,8 +28,8 @@ you must have a 1920x1080p monitor.
 5.  optional: set it to loop (max 10 for free version of macro recorder)
 # compatabily
 currently, the easter event allows the farming of insta-monkeys. 
-there are two scripts, one for insta and monkey money farming, and one just for money farming.
-i do not know if the insta-monkey farming one works yet, but it *should* work. i still have some testing to do.
+there are three scripts, 2 for insta and monkey money farming, and one just for money farming.
+use "BTD6 Bloon Farm (6 hour loop, money and 2 giving insta crates" when the crates are under diamond, and use "BTD6 Bloon Farm (6 hour loop, money and 3 giving insta crates)" when you reach diamond.
 # will i get banned for using this!?!?!??!
 most likey not. if you are still sceptical, run steam in offline mode.
 
