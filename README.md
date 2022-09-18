@@ -22,7 +22,7 @@ you must have a 1920x1080p monitor.
 
 # how to use
 1. download and install macro recorder. https://www.macrorecorder.com/
-2.  download the script from this repository.
+2.  download the script from this repository. (click on the file name, then click "download")
 3.  open up bloons and play dark castle on easy and select deflation.
 4.  close out the popup and run the macro.
 5.  optional: set it to loop (max 10 for free version of macro recorder)
