@@ -32,7 +32,8 @@ there are 2 scripts, 1 for insta and monkey money farming, and one just for mone
 use the no money one for only money, and for collection events, use the onther one.
 # will i get banned for using this!?!?!??!
 most likey not. if you are still sceptical, run steam in offline mode.
-
 # How do i farm insta monkeys!!!!!
 right now the insta farming one only works if there is a BTD6 event that has the insta-monkey loot crates.
+# Why is insta farming so slow!?
+currently I have only one recorded game, more shall come in the future.
 
